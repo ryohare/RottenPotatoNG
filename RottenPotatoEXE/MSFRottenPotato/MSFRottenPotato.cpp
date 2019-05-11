@@ -429,8 +429,8 @@ int main()
 			memset(&pi, 0x00, sizeof(PROCESS_INFORMATION));
 			si.cb = sizeof(STARTUPINFO);
 
-			wchar_t *cmdPath = L"C:\\Windows\\System32\\cmd.exe";
-			//wchar_t *cmdPath = L"Z:\\payload.exe";
+			//wchar_t *cmdPath = L"C:\\Windows\\System32\\cmd.exe";
+			wchar_t *cmdPath = L"C:\\Users\\jill\Desktop\\payload.exe";
 			wchar_t *args = L"";
 
 			printf("Running %S with args %S\n", cmdPath, args);
