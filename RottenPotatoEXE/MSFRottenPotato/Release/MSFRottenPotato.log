@@ -2,12 +2,14 @@
   dllmain.cpp
   IStorageTrigger.cpp
   LocalNegotiator.cpp
-c:\workspace\ryohare\rottenpotatong\rottenpotatoexe\msfrottenpotato\localnegotiator.cpp(72): warning C4018: '>=': signed/unsigned mismatch
-c:\workspace\ryohare\rottenpotatong\rottenpotatoexe\msfrottenpotato\localnegotiator.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\peyto\source\repos\rottenpotatong\rottenpotatoexe\msfrottenpotato\localnegotiator.cpp(72): warning C4018: '>=': signed/unsigned mismatch
+c:\users\peyto\source\repos\rottenpotatong\rottenpotatoexe\msfrottenpotato\localnegotiator.cpp(75): warning C4018: '<': signed/unsigned mismatch
   MSFRottenPotato.cpp
-c:\workspace\ryohare\rottenpotatong\rottenpotatoexe\msfrottenpotato\msfrottenpotato.cpp(329): warning C4101: 'ntlmLoc': unreferenced local variable
-     Creating library C:\workspace\ryohare\RottenPotatoNG\RottenPotatoEXE\Release\MSFRottenPotato.lib and object C:\workspace\ryohare\RottenPotatoNG\RottenPotatoEXE\Release\MSFRottenPotato.exp
+c:\users\peyto\source\repos\rottenpotatong\rottenpotatoexe\msfrottenpotato\msfrottenpotato.cpp(329): warning C4101: 'ntlmLoc': unreferenced local variable
+     Creating library C:\Users\peyto\Source\Repos\RottenPotatoNG\RottenPotatoEXE\Release\MSFRottenPotato.lib and object C:\Users\peyto\Source\Repos\RottenPotatoNG\RottenPotatoEXE\Release\MSFRottenPotato.exp
   Generating code
-  All 190 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  186 of 190 functions (97.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  MSFRottenPotato.vcxproj -> C:\workspace\ryohare\RottenPotatoNG\RottenPotatoEXE\Release\MSFRottenPotato.exe
+  MSFRottenPotato.vcxproj -> C:\Users\peyto\Source\Repos\RottenPotatoNG\RottenPotatoEXE\Release\MSFRottenPotato.exe
