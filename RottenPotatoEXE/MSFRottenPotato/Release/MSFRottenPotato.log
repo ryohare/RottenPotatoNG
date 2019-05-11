@@ -1,6 +1,5 @@
 ﻿  MSFRottenPotato.cpp
 c:\users\peyto\source\repos\rottenpotatong\rottenpotatoexe\msfrottenpotato\msfrottenpotato.cpp(329): warning C4101: 'ntlmLoc': unreferenced local variable
-c:\users\peyto\source\repos\rottenpotatong\rottenpotatoexe\msfrottenpotato\msfrottenpotato.cpp(433): warning C4129: 'D': unrecognized character escape sequence
      Creating library C:\Users\peyto\Source\Repos\RottenPotatoNG\RottenPotatoEXE\Release\MSFRottenPotato.lib and object C:\Users\peyto\Source\Repos\RottenPotatoNG\RottenPotatoEXE\Release\MSFRottenPotato.exp
   Generating code
   1 of 190 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
